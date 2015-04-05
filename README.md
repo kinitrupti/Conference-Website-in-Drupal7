@@ -20,4 +20,7 @@ Save and close the file.
 
 The installation will complete successfully.
 
+We took one of acrofi websites for reference.
+
+Next we used Connector module to login with 
 
