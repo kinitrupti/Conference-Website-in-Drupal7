@@ -9,4 +9,15 @@ For domain and hosting of website I used Godaddy but bigrocks is recommended. If
 
 In godaddy there is default applications which need to be installed on the host. I chose Drupal7. I installed it. You can check File manager for all the files & folders related to Drupal7. Then I went to the url of my hosting and found out that Drupal 7 got installed. Now it was time to select a theme. We chose Multipurpose theme of Drupal as we wanted something mobile friendly. We intalled it through Drupal 7 interface Modules->Install new Module.
 
-Now as we wanted to create a conference website, we were trying to research to find a module which is better for conference websites. Then we got several links related to Conference Organizing Distribution(COD). Initially we thought it is a module. Then we realized it is a complete drupal package with conference related features. What I did was I placed the downloaded tar file of COD in public_html and extracted it.
+Now as we wanted to create a conference website, we were trying to research to find a module which is better for conference websites. Then we got several links related to Conference Organizing Distribution(COD). Initially we thought it is a module. Then we realized it is a complete drupal package with conference related features. What I did was I placed the downloaded tar file of COD in subdomain folder in public_html and extracted it. Replace all the folders of drupal with that in COD folder in that path. Delete the COD folder and tar file. Go to the browser and refresh the url. 
+
+Incase you get an error of memory size or limit then give edit permission to public_html/conf/sites/default/seetings.php.
+
+Then edit the settings.php by adding the line
+ini_set('memory_limit', '256M');
+
+Save and close the file.
+
+The installation will complete successfully.
+
+
