@@ -1,0 +1,48 @@
+Date: 24th nov 2014
+Contributor: Laxman Ghanasham Sole
+
+Preference 1 :-
+Title of the book : Electronic Devices And Circuits
+Author name : Satya Prakash, Saurabh Rawat
+ISBN No. : 978-93-80225-48-7
+Publisher and Place : Anand Publications, New Delhi
+Edition : 3
+Year of publication : 2012
+
+
+
+1. Heading size not as per the guidelines
+2. Correct Spelling mistakes in output
+3. kindly use import statements in all the examples
+4. round-off answers remove unnecessary zeroes
+
+
+Chapter No.2: Bipolar junction Transistors(BJTs)
+1. Please remove %pylab inline
+
+2. example 2.16, Page No.94
+#round-off answers remove unnecessary zeroes
+
+4. example 2.17, Page No. 97
+#round-off 
+
+Chapter 3:Transistor Amplifiers
+1.  example 3.3, Page No. 126
+#round-off
+
+chapter 5: Feed Back
+1. example 5.2, Page No.192
+#variable declaration not proper
+
+Chapter 7: Magnetic Materials
+1.example 7.5, Page No.253 
+#round-off
+
+Chapter 8: Oscillators
+1. example 8.6, Page No.292
+#answer not matching the textbook
+
+2. example 8.7, Page No.292
+#answer not matching the textbook
+
+

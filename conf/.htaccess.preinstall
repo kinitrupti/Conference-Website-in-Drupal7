@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^conf\.fossevangelist\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.conf\.fossevangelist\.in$
+RewriteRule ^/?$ "http\:\/\/conf\.fossevangelist\.in" [R=301,L]
+

@@ -1,0 +1,13 @@
+.eoi{
+    color:#A6AEC6;
+    -webkit-transition: 0.5s;
+     -moz-transition: 0.5s;
+     -o-transition: 0.5s;
+     -ms-transition: 0.5s;
+     transition: 0.5s;
+}
+ 
+.eoi:hover {
+    color: #fff;
+    text-shadow: -1px 1px 5px #A6AEC6, 1px -1px 5px #A6AEC6;
+}

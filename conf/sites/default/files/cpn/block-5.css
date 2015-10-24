@@ -1,0 +1,9 @@
+.new {
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out; /* FF 4 */
+    -webkit-transition: color 1s ease-in-out; /* Safari & Chrome */
+    -o-transition: color 1s ease-in-out; /* Opera */
+}
+#block-block-5 h2{
+font-style:strong;
+}

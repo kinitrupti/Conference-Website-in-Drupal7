@@ -1,0 +1,8 @@
+#header-wrapper {
+  background: #fff url('Mumbai_India_Bridge.png') no-repeat left top;
+  height: 55px;
+  margin-bottom: 25px;
+  overflow: hidden;
+  padding: 2px 20px 32px 5px;
+  position: relative;
+}
